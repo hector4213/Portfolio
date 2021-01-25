@@ -4,7 +4,7 @@ date: '2010-03-19'
 title: '6ixbus'
 repo_link: 'https://github.com/hector4213/6ixbus'
 demo_link: 'https://6ixbus.netlify.app/'
-techs: ['Typescript', 'React', 'Redux']
+techs: ['React', 'Bulma', 'API']
 ---
 
-Add stuff here later
+A purely front-end based project. To get information on bus / streetcat information for the TTC.
