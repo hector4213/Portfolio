@@ -3,7 +3,7 @@ cards:
   - label: Javascript
     icon: js
     prefix: fab
-    description: JS
+    description: ''
   - label: Ruby
     icon: gem
     prefix: fas
@@ -11,23 +11,27 @@ cards:
   - label: CSS
     icon: css3
     prefix: fab
-    description: good old css
+    description: ''
   - label: HTML
     icon: html5
     prefix: fab
-    description: the bones
+    description: ''
   - label: React
     icon: react
     prefix: fab
-    description: Wow much framework
+    description: ''
   - label: Node.js
     icon: node
     prefix: fab
-    description: Servers like volleyball or waiter
+    description: ''
   - label: Postgres
     icon: database
     prefix: fas
-    description: I wanna data your base
+    description: ''
+  - label: Git
+    icon: git-alt
+    prefix: fab
+    description: ''
 ---
 
 
