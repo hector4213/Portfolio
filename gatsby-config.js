@@ -3,8 +3,8 @@ module.exports = {
   siteMetadata: {
     title: 'Portfolio',
     titleTemplate: '%s · Hector',
-    image: '/images/logo.png',
-    author: 'Hector C',
+    image: '/images/hectorlogo.png',
+    author: 'Hector Clara',
     description: 'See what Hector is all about',
     url: 'https://hectorclara.ca',
     paginationPageSize: 4,
