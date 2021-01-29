@@ -21,7 +21,7 @@ const Index = ({ data }) => {
 
   return (
     <Layout menuLinks={indexMenuLinks}>
-      <SEO title="Home" />
+      <SEO title="Hectors Portfolio Website" image={data.site.siteMetadata.image} />
       <Hero data={heroData} />
       <About data={data.about} />
       <FeaturedProjects featured={data.featuredProjects.nodes} />
@@ -38,6 +38,7 @@ export const query = graphql`
     site {
       siteMetadata {
         author
+        image
       }
     }
 
