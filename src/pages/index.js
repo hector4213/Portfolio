@@ -21,7 +21,7 @@ const Index = ({ data }) => {
 
   return (
     <Layout menuLinks={indexMenuLinks}>
-      <SEO title="Hectors Portfolio Website" image={"https://i.imgur.com/EtAgiIb.png"} />
+      <SEO title="Hectors Portfolio Website" image={"https://i.imgur.com/BAiMJw2.jpg"} />
       <Hero data={heroData} />
       <About data={data.about} />
       <FeaturedProjects featured={data.featuredProjects.nodes} />
